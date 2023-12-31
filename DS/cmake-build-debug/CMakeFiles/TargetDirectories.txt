@@ -1,0 +1,3 @@
+C:/Users/ADITYA/DS/cmake-build-debug/CMakeFiles/DS.dir
+C:/Users/ADITYA/DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ADITYA/DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
